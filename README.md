@@ -52,7 +52,7 @@ docker run -it \
 
 
 
-# Commande pour lancer le serveur POSTGRES 
+### Commande pour lancer le serveur POSTGRES 
 ```bash
 psql -h localhost -p 5433 -U root -d ny_taxi
 ```
